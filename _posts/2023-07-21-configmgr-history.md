@@ -1,6 +1,6 @@
 ---
 title: 'История развития версий Configuration Manager'
-date: 2023-07-22 22:30:00 +0300
+date: 2023-07-21 22:30:00 +0300
 description: Краткая история развитий версий Configuration Manager
 categories: [Configuration Manager, Статья]
 tags: [ConfigMgr]
