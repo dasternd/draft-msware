@@ -23,10 +23,10 @@ image:
 
 **Характеристики рабочей станции**
 
-CPU - Intel Core i3 10105 3.7GHz
-RAM - 64Gb
-DISK - Team Group M2 1Tb
-OS - Windows 11 Pro
+CPU - Intel Core i3 10105 3.7GHz <br>
+RAM - 64Gb <br>
+DISK - Team Group M2 1Tb <br>
+OS - Windows 11 Pro <br>
 
 
 **Настройки окружения**
