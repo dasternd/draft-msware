@@ -57,16 +57,16 @@ sysprep /generalize /oobe /shutdown /unattend:c:\autounattend.xml
 
 В каталоге **D:\Hyper-V** создаем новый **Template**, в котором будут размещаться диски с эталонными образами операционных систем со своей системой обозначения:
 
-- **w2k16** - Windows Server 2016 Standard
-- **w2k19** - Windows Server 2019 Standard
-- **w2k22** - Windows Server 2022 Standard
-- **w2k22c** - Windows Server 2022 Core
-- **w7** - Windows 7 Pro
-- **w7e** - Windows 7 Enterprise
-- **w10** - Windows 10 Pro
-- **w10e** - Windows 10 Enterprise
-- **w11** - Windows 11 Pro
-- **w11e** - Windows 11 Enterprise
+**w2k16** - Windows Server 2016 Standard <br>
+**w2k19** - Windows Server 2019 Standard <br>
+**w2k22** - Windows Server 2022 Standard <br>
+**w2k22c** - Windows Server 2022 Core <br>
+**w7** - Windows 7 Pro <br>
+**w7e** - Windows 7 Enterprise <br>
+**w10** - Windows 10 Pro <br>
+**w10e** - Windows 10 Enterprise <br>
+**w11** - Windows 11 Pro
+**w11e** - Windows 11 Enterprise <br>
 
 
 ## Инструментарий
