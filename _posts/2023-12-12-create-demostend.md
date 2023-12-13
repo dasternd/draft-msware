@@ -2,7 +2,7 @@
 title: 'Создание тестового стенда'
 date: 2023-12-12 22:30:00 +0300
 description: Автоматизация подготовки тестового стенда на базе Hyper-V с помощью PowerShell
-categories: [PowerShell, Решение]
+categories: [PowerShell, Инструкция]
 tags: [Hyper-V, PowerShell]
 img_path: /assets/screenshots/create-demostend
 image:
